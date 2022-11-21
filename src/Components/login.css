@@ -1,0 +1,10 @@
+.body{
+  background-image: url("./background.jpg");
+  color: white;
+  padding: 40px;
+  text-align: center;
+  height: 100vh;
+  font-family: "Raleway", sans-serif;
+  
+}
+
